@@ -50,6 +50,8 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
         <li><a href="#swagger">Swagger</a></li>
+        <li><a href="#logs">Logs</a></li>
+         <li><a href="#database">Database</a></li>
         <li><a href="#file-structure">File Structure</a></li>
           <ul>
             <li><a href="#backend-structure">Backend Structure</a></li>
@@ -141,6 +143,23 @@ MongoDB connection (requires changes to the "application.properties" file.)
 ## Swagger
 
 ![Swagger](https://user-images.githubusercontent.com/25417307/177624957-f18af6d0-3b08-4b8f-b741-8c779144c88a.png)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Logs
+
+
+![Logs](https://user-images.githubusercontent.com/25417307/177626009-6bcf5e0f-072f-4886-a4aa-d324beff4f1a.PNG)
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+## Database
+
+![Database](https://user-images.githubusercontent.com/25417307/177626029-58bc536d-3c77-4f7b-9e59-bb9c6edcba19.PNG)
+
+![City](https://user-images.githubusercontent.com/25417307/177626068-2dc0f79b-1db1-4866-bc1b-51e5a1e2b81c.PNG)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
